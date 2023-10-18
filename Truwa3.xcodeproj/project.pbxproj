@@ -11,6 +11,21 @@
 		B1570CBC2ADFC4A600641351 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CBB2ADFC4A600641351 /* ContentView.swift */; };
 		B1570CBE2ADFC4A700641351 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1570CBD2ADFC4A700641351 /* Assets.xcassets */; };
 		B1570CC12ADFC4A700641351 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1570CC02ADFC4A700641351 /* Preview Assets.xcassets */; };
+		B1570CC82ADFC55C00641351 /* creat_acc.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CC72ADFC55C00641351 /* creat_acc.swift */; };
+		B1570CCA2ADFC5AB00641351 /* withApple.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CC92ADFC5AB00641351 /* withApple.swift */; };
+		B1570CCC2ADFC5D600641351 /* profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CCB2ADFC5D500641351 /* profile.swift */; };
+		B1570CCE2ADFC5F900641351 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CCD2ADFC5F900641351 /* TabBar.swift */; };
+		B1570CD02ADFC61A00641351 /* main_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CCF2ADFC61A00641351 /* main_page.swift */; };
+		B1570CD22ADFC63C00641351 /* otp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CD12ADFC63C00641351 /* otp.swift */; };
+		B1570CD62ADFC6C400641351 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CD52ADFC6C400641351 /* OnboardingView.swift */; };
+		B1570CD82ADFC70300641351 /* OnboardingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CD72ADFC70300641351 /* OnboardingData.swift */; };
+		B1570CDA2ADFC73D00641351 /* AudioPlay2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CD92ADFC73D00641351 /* AudioPlay2.swift */; };
+		B1570CDC2ADFC75F00641351 /* AudioPlay1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CDB2ADFC75F00641351 /* AudioPlay1.swift */; };
+		B1570CDE2ADFC78B00641351 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CDD2ADFC78B00641351 /* Alerts.swift */; };
+		B1570CE02ADFC7B100641351 /* frends.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CDF2ADFC7B100641351 /* frends.swift */; };
+		B1570CE22ADFC7CF00641351 /* share.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CE12ADFC7CF00641351 /* share.swift */; };
+		B1570CE42ADFC7F100641351 /* Thechoices.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CE32ADFC7F100641351 /* Thechoices.swift */; };
+		B1570CE62ADFC83B00641351 /* favorite.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1570CE52ADFC83B00641351 /* favorite.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		B1570CBB2ADFC4A600641351 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B1570CBD2ADFC4A700641351 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1570CC02ADFC4A700641351 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1570CC72ADFC55C00641351 /* creat_acc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creat_acc.swift; sourceTree = "<group>"; };
+		B1570CC92ADFC5AB00641351 /* withApple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = withApple.swift; sourceTree = "<group>"; };
+		B1570CCB2ADFC5D500641351 /* profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profile.swift; sourceTree = "<group>"; };
+		B1570CCD2ADFC5F900641351 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		B1570CCF2ADFC61A00641351 /* main_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main_page.swift; sourceTree = "<group>"; };
+		B1570CD12ADFC63C00641351 /* otp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otp.swift; sourceTree = "<group>"; };
+		B1570CD52ADFC6C400641351 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B1570CD72ADFC70300641351 /* OnboardingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingData.swift; sourceTree = "<group>"; };
+		B1570CD92ADFC73D00641351 /* AudioPlay2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlay2.swift; sourceTree = "<group>"; };
+		B1570CDB2ADFC75F00641351 /* AudioPlay1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlay1.swift; sourceTree = "<group>"; };
+		B1570CDD2ADFC78B00641351 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
+		B1570CDF2ADFC7B100641351 /* frends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frends.swift; sourceTree = "<group>"; };
+		B1570CE12ADFC7CF00641351 /* share.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = share.swift; sourceTree = "<group>"; };
+		B1570CE32ADFC7F100641351 /* Thechoices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thechoices.swift; sourceTree = "<group>"; };
+		B1570CE52ADFC83B00641351 /* favorite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favorite.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +83,21 @@
 			children = (
 				B1570CB92ADFC4A600641351 /* Truwa3App.swift */,
 				B1570CBB2ADFC4A600641351 /* ContentView.swift */,
+				B1570CC72ADFC55C00641351 /* creat_acc.swift */,
+				B1570CC92ADFC5AB00641351 /* withApple.swift */,
+				B1570CCB2ADFC5D500641351 /* profile.swift */,
+				B1570CCD2ADFC5F900641351 /* TabBar.swift */,
+				B1570CCF2ADFC61A00641351 /* main_page.swift */,
+				B1570CD12ADFC63C00641351 /* otp.swift */,
+				B1570CD52ADFC6C400641351 /* OnboardingView.swift */,
+				B1570CD72ADFC70300641351 /* OnboardingData.swift */,
+				B1570CD92ADFC73D00641351 /* AudioPlay2.swift */,
+				B1570CDB2ADFC75F00641351 /* AudioPlay1.swift */,
+				B1570CDD2ADFC78B00641351 /* Alerts.swift */,
+				B1570CDF2ADFC7B100641351 /* frends.swift */,
+				B1570CE12ADFC7CF00641351 /* share.swift */,
+				B1570CE32ADFC7F100641351 /* Thechoices.swift */,
+				B1570CE52ADFC83B00641351 /* favorite.swift */,
 				B1570CBD2ADFC4A700641351 /* Assets.xcassets */,
 				B1570CBF2ADFC4A700641351 /* Preview Content */,
 			);
@@ -137,8 +182,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1570CDC2ADFC75F00641351 /* AudioPlay1.swift in Sources */,
+				B1570CE02ADFC7B100641351 /* frends.swift in Sources */,
+				B1570CD02ADFC61A00641351 /* main_page.swift in Sources */,
+				B1570CCA2ADFC5AB00641351 /* withApple.swift in Sources */,
+				B1570CE22ADFC7CF00641351 /* share.swift in Sources */,
+				B1570CE62ADFC83B00641351 /* favorite.swift in Sources */,
+				B1570CC82ADFC55C00641351 /* creat_acc.swift in Sources */,
+				B1570CD62ADFC6C400641351 /* OnboardingView.swift in Sources */,
 				B1570CBC2ADFC4A600641351 /* ContentView.swift in Sources */,
+				B1570CCE2ADFC5F900641351 /* TabBar.swift in Sources */,
+				B1570CD82ADFC70300641351 /* OnboardingData.swift in Sources */,
+				B1570CE42ADFC7F100641351 /* Thechoices.swift in Sources */,
+				B1570CDE2ADFC78B00641351 /* Alerts.swift in Sources */,
+				B1570CCC2ADFC5D600641351 /* profile.swift in Sources */,
 				B1570CBA2ADFC4A600641351 /* Truwa3App.swift in Sources */,
+				B1570CD22ADFC63C00641351 /* otp.swift in Sources */,
+				B1570CDA2ADFC73D00641351 /* AudioPlay2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
